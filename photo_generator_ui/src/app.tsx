@@ -18,9 +18,9 @@ export default function App() {
     <div className="app-container">
       <aside className="sidebar">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Small_Coat_of_Arms_of_Ukraine.svg"
+          src="/Large_coat_of_arms.png"
           alt="Ukraine Coat of Arms"
-          className="coat-of-arms"
+          style={{ width: "120px", height: "auto", marginBottom: "10px" }}
         />
       </aside>
       <main className="main-content">
